@@ -1,15 +1,25 @@
-<h1 align="center">Hi 👋, I'm Devvara Rishivian</h1>
-<h3 align="center">A Web Development, Indonesian kretek and coffee enthusiast.</h3>
+# Hello there 👋
+
+I'm Devvara Rishivian, full stack web developer from Indonesia.
 
 - 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **devvara@rishivian.id**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></p>
+<p>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>     
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> 
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devararishivian&layout=compact&hide=html" alt="devararishivian" /></p>
+## Statistic and Links
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devararishivian&show_icons=true" alt="devararishivian" /></p>
+<a href="https://github.com/devararishivian"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devararishivian&theme=default&hide=css,html" /></a>&nbsp;<a href="https://github.com/devararishivian"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devararishivian&show_icons=true&theme=default&line_height=27" alt="devararishivian's github stats" /></a>
+
 
 <p align="center">
 <a href="https://dev.to/devararishivian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devararishivian" height="30" width="30" /></a>
