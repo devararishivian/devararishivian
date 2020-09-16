@@ -18,7 +18,7 @@ I'm Devvara Rishivian, full stack web developer from Indonesia.
 
 ## Statistic and Links
 
-<a href="https://github.com/devararishivian"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devararishivian&theme=monokai&hide=css,html,dart&langs_count=6" /></a>&nbsp;<a href="https://github.com/devararishivian"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devararishivian&count_private=true&show_icons=true&theme=monokai&line_height=27" alt="devararishivian's github stats" /></a>
+<a href="https://github.com/devararishivian"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devararishivian&theme=algolia&hide=css,html,dart&langs_count=7" /></a>&nbsp;<a href="https://github.com/devararishivian"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devararishivian&count_private=true&show_icons=true&theme=monokai&line_height=33" alt="devararishivian's github stats" /></a>
 
 
 <p align="center">
