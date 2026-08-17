@@ -1,4 +1,4 @@
-# Qaisha Muhammada Devvara Rishivian
+# Devvara Rishivian
 
 Senior Software Engineer focused on Go, backend services, integrations, and production systems.
 
