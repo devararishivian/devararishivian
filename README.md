@@ -23,13 +23,13 @@ prefix matching (merged).
 
 **What I build with**, layered from the data at the core out to the client that calls it:
 
-| Layer                  | Technologies                                                                       |
-|------------------------|------------------------------------------------------------------------------------|
-| Data and messaging     | MySQL · PostgreSQL · MongoDB · Redis · Google Cloud Pub/Sub · Google Cloud Storage |
-| Services               | Go · PHP · Laravel                                                                 |
-| Interfaces             | REST APIs · gRPC · Protocol Buffers · Webhooks · JWT · PASETO · API keys           |
-| Front end (supporting) | Vue.js · Nuxt · React · Next.js · TypeScript                                       |
-| Side projects          | Rust · TypeScript                                                                  |
+| Layer                  | Technologies                                                                         |
+|------------------------|--------------------------------------------------------------------------------------|
+| Data and messaging     | MySQL · PostgreSQL · MongoDB · Redis · Google Cloud Pub/Sub · Google Cloud Storage   |
+| Services               | Go · PHP · TypeScript · Laravel                                                      |
+| Interfaces             | REST APIs · gRPC · Protocol Buffers · Webhooks · OAuth 2.0 · JWT · PASETO · API keys |
+| Front end (supporting) | Vue.js · Nuxt · React · Next.js · TypeScript                                         |
+| Side projects          | Rust · TypeScript                                                                    |
 
 **What I do:** System design · API design · Microservices · Systems integration · Production troubleshooting · Unit
 testing
@@ -41,7 +41,7 @@ testing
 
 ## Contact
 
-Open to remote roles worldwide (EOR or contractor, CET/UK hours) and onsite or hybrid roles in Indonesia.
+Open to remote, onsite, or hybrid roles in Indonesia, and remote roles worldwide (EOR or contractor, CET/UK hours).
 
 [rishivian.dev](https://rishivian.dev) · [LinkedIn](https://www.linkedin.com/in/devvara) ·
 [devvara@rishivian.dev](mailto:devvara@rishivian.dev)
